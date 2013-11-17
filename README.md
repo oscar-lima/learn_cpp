@@ -1,6 +1,4 @@
 C++ and CMake examples
 ======================
 
-CMake commands:
-
-		CMake -DCMAKE_INSTALL_PREFIX=/usr/include ..
+This repo contains examples of c++ and cmake usage
