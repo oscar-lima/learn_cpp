@@ -1,0 +1,45 @@
+#config h file in Stage
+.directory
+
+# ROS STUFF
+.cproject
+.project
+.pydevproject
+cmake_install.cmake
+build/
+bin/
+lib/
+docs/
+msg_gen/
+srv_gen/
+
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# PDT-specific
+.buildpath
+
+*.pyc
+*.so
+.vim
+.clang_complete
+*.*~
+*~
+*.cfgc
+CMakeFiles
+CMakeCache.txt
+stack.xml.bak
+*.aux
+*.log
+*.toc
+*.autotools

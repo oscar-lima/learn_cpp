@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8.7)
+    project(hello_world)
+    add_executable(hello_world src/hello_world.cpp)
+    add_executable(hello_world_2 src/hello_world_2.cpp)
+    add_executable(hello_world_3 src/hello_world_3.cpp)
